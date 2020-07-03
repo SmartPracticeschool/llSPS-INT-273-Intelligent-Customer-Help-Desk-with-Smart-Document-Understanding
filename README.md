@@ -11,7 +11,7 @@ In Watson Discovery I have added ecobee3_userguide.
 
 I have uploaded a demo video of this project in my youtube channel:  https://youtu.be/uYwnmtk_9vk
 
-Node_Red Dasboard link after deploying : https://node-red--smart.eu-gb.mybluemix.net/ui/#!/1?socketid=LoAG6fj5myvVe8TeAAAW
+Node_Red Dasboard link after deploying : https://node-red-tyagt.eu-gb.mybluemix.net/ui/#!/0?socketid=qgtDMKo9zGpRmiqhAAAC
 
 
 
